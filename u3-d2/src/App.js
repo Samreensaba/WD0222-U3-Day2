@@ -10,7 +10,7 @@ function App() {
     <>
     <MyNav/>
     <Welcome/>
-    <h4>Latest Release</h4>
+    <h3 className="text-center">Latest Release</h3>
     <LatestRelease/>
     <MyFooter/>
     </>

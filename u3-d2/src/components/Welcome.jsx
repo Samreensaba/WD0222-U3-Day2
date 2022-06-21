@@ -11,7 +11,7 @@ class Welcome extends Component{
                       <Card.Img variant="top" src="https://s26162.pcdn.co/wp-content/uploads/2022/05/Best-Reviewed-Books.jpeg" style={{height:"350px"}} />
                       <Card.Body className="bg-info">
                         <h1 className="text-center text-warning">
-                          Strive Books
+                          Welcome to Strive Books!
                         </h1>
                       </Card.Body>
                     </Card>
